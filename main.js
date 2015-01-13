@@ -1,6 +1,6 @@
 var name;
 // Q: What does name equal right now?
-//=> undefined
+//=> "" 
 
 name = "Tim";
 // Q: What is `name` set to right now?
